@@ -21,3 +21,11 @@ E:\AppEgresados\AppEgresados\AppEgresados\bin\Telerik.Windows.Zip.xml
 E:\AppEgresados\AppEgresados\AppEgresados\obj\Debug\AppEgresados.csprojResolveAssemblyReference.cache
 E:\AppEgresados\AppEgresados\AppEgresados\obj\Debug\AppEgresados.dll
 E:\AppEgresados\AppEgresados\AppEgresados\obj\Debug\AppEgresados.pdb
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Microsoft.IdentityModel.Logging.dll
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Microsoft.IdentityModel.Tokens.dll
+E:\AppEgresados\AppEgresados\AppEgresados\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Twilio.dll
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Microsoft.IdentityModel.Tokens.xml
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Newtonsoft.Json.xml
+E:\AppEgresados\AppEgresados\AppEgresados\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\AppEgresados\AppEgresados\AppEgresados\bin\Twilio.xml
