@@ -28,3 +28,4 @@ E:\AppEgresados\AppEgresados\AppEgresados\bin\Telerik.Windows.Zip.xml
 E:\AppEgresados\AppEgresados\AppEgresados\bin\Twilio.xml
 E:\AppEgresados\AppEgresados\AppEgresados\obj\Release\AppEgresados.dll
 E:\AppEgresados\AppEgresados\AppEgresados\obj\Release\AppEgresados.pdb
+E:\AppEgresados\AppEgresados\AppEgresados\obj\Release\AppEgresados.csprojResolveAssemblyReference.cache
