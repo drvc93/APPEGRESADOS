@@ -114,6 +114,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\bootstrap3.min.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="imgs\Fondo.png" />
     <Content Include="MasterPage.Master" />
     <Content Include="MasterPageSingleMenu.Master" />
   </ItemGroup>
@@ -193,8 +196,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SweetAlert\sweetalert.css" />
+    <Content Include="SweetAlert\sweetalert.min.js" />
     <Content Include="web.config" />
     <Content Include="packages.config" />
+    <Content Include="Excel\DATA.xlsx" />
     <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
